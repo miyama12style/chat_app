@@ -1,0 +1,27 @@
+body {
+  background-color: aquamarine;
+}
+
+.container {
+  margin: 50px;
+}
+
+.title {
+  color: blueviolet;
+}
+
+.button {
+  padding: 5px 20px;
+  background-color: cornflowerblue;
+  border: 0px 2px 2px #eee;
+  margin-top: 25px;
+}
+
+.input {
+  border-radius: 4px;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 20px;
+}
